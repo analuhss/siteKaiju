@@ -1,24 +1,15 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
-body {
-    background-color: #363636;
-    color: #54D298;
-    text-align: center;
+html, body {
+    height: 100%;
 }
 
-header {
-    padding: 4rem;
-    background-color: beige ;
-    display: flex;
-    gap: 2rem;
-    h1 {
-        color: #363636;
-    }
-    p {
-        color: #363636;
-    }
+body  {
+    background-image: url('./files/FUNDO.svg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
