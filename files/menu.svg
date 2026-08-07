@@ -1,12 +1,12 @@
-<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="152" height="137" viewBox="0 0 152 137" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g filter="url(#filter0_i_34_2)">
-<rect x="34" y="36" width="131" height="128" rx="20" fill="#D9D9D9" fill-opacity="0.2"/>
+<rect x="10" y="9" width="131" height="128" rx="20" fill="#D9D9D9" fill-opacity="0.2"/>
 </g>
-<rect x="48" y="66" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
-<rect x="48" y="89.5428" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
-<rect x="48" y="114.471" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
+<rect x="24" y="39" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
+<rect x="24" y="62.5428" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
+<rect x="24" y="87.4706" width="104.424" height="19.3882" rx="9.69412" fill="#41FFA6"/>
 <defs>
-<filter id="filter0_i_34_2" x="30" y="32" width="135" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<filter id="filter0_i_34_2" x="6" y="5" width="135" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
 <feFlood flood-opacity="0" result="BackgroundImageFix"/>
 <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
 <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
