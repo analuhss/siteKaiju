@@ -4,36 +4,29 @@
     padding: 0;
 }
 
-html, body {
-    height: 100%;
-}
-
-body  {
-    background-image: url('./files/FUNDO.svg');
+body {
+    background-image: url(./files/FUNDO.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
-.hero {
-    position: relative;
-    min-height:100hv;
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-
-}
-
-.hero::after {
-    box-shadow: inset 0 0 160px rgba(0,0,0,0.65);
-}
-
 nav {
     display: flex;
-    justify-content: space-between;
+    align-items: flex-start;
 }
 
 .menu {
-    flex-direction:column;
+    display: flex;
+    background: none;
+    padding: 0;
+    cursor: pointer;
+}
+
+.login {
+    display: flex;
+    
+    background: none;
+    padding: 0;
+    cursor: pointer;
 }
